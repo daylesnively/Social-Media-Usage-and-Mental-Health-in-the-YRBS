@@ -8,6 +8,11 @@ The dataset contains data recorded for a sample of 322 13-18 year olds from the 
 ## Statistical Analysis
 Generating descriptive statistics in order to determine the relationship between mental health score values and social media use.
 
+## Data Visualization
+<img width="425.25" height="255" alt="Graph" src="https://github.com/user-attachments/assets/f1ba2ffc-5554-4b15-917d-817cbb1ce2b4" />
+
+<img width="425.25" height="255" alt="Graph2" src="https://github.com/user-attachments/assets/0932e7ff-7463-43f3-aec7-26a4e8a7bc4e" />
+
 ## Synthesized Results
 The proportion of individuals in the dataset who indicated they have ever been electronically bullied is 18.32%. 
 
